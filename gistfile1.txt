@@ -5,5 +5,5 @@
 
 		// Start Firefox in new private window mode
 		FirefoxProfile fp = new FirefoxProfile();
-		fp.setPreference("browser.privatebrowsing.autostart", true);
+		fp.setPreference("browser.private.browsing.autostart", true);
 	
